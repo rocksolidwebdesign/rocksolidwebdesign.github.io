@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>js on Devkeen</title>
+        <link>http://www.rocksolidwebdesign.com/tags/js/</link>
+        <description>Recent content in js on Devkeen</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 05 Nov 2022 18:00:00 +0000</lastBuildDate><atom:link href="http://www.rocksolidwebdesign.com/tags/js/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>A Study on The Mandlebrot Set</title>
+        <link>http://www.rocksolidwebdesign.com/p/mandle-js/</link>
+        <pubDate>Sat, 05 Nov 2022 18:00:00 +0000</pubDate>
+        
+        <guid>http://www.rocksolidwebdesign.com/p/mandle-js/</guid>
+        <description>&lt;img src="http://www.rocksolidwebdesign.com/images/wikipedia/Mandelbrot_set_image-crop.png" alt="Featured image of post A Study on The Mandlebrot Set" /&gt;&lt;p&gt;I created this fractal renderer.&lt;/p&gt;
+&lt;p&gt;It runs right in your browser, click the link and have fun.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://rocksolidwebdesign.github.io/mandle.js/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rocksolidwebdesign.github.io/mandle.js/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cover Photo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A colorized rendering of the &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Mandelbrot_set&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Mandlebrot Set&lt;/a&gt;, so named for &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Benoit_Mandelbrot&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Benoit Mandlebrot&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are no colors associated with the math but colors can be assigned based on the results to create these intricate pictures.&lt;/p&gt;
+&lt;p&gt;Credit: &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/File:Mandelbrot_set_image.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Binette228&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>A Robot Brain Simulation</title>
+        <link>http://www.rocksolidwebdesign.com/p/js-bots/</link>
+        <pubDate>Sat, 05 Nov 2022 17:00:00 +0000</pubDate>
+        
+        <guid>http://www.rocksolidwebdesign.com/p/js-bots/</guid>
+        <description>&lt;img src="http://www.rocksolidwebdesign.com/images/unsplash/jochen-van-wylick-Y40Ga3oahAs-unsplash-crop.jpg" alt="Featured image of post A Robot Brain Simulation" /&gt;&lt;p&gt;I made some virtual robots that learn through a geneic algorithm.&lt;/p&gt;
+&lt;p&gt;This is an interactive demo, you can try it in your browser.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://rocksolidwebdesign.github.io/jsbots/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://rocksolidwebdesign.github.io/jsbots/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cover Photo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Credit: &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@jochenvw?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jochen Van Wylick&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

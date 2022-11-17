@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>graphics on Devkeen</title>
+        <link>http://www.rocksolidwebdesign.com/tags/graphics/</link>
+        <description>Recent content in graphics on Devkeen</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 05 Nov 2022 20:00:00 +0000</lastBuildDate><atom:link href="http://www.rocksolidwebdesign.com/tags/graphics/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>A C&#43;&#43; Software Rasterizer</title>
+        <link>http://www.rocksolidwebdesign.com/p/cxxray/</link>
+        <pubDate>Sat, 05 Nov 2022 20:00:00 +0000</pubDate>
+        
+        <guid>http://www.rocksolidwebdesign.com/p/cxxray/</guid>
+        <description>&lt;img src="http://www.rocksolidwebdesign.com/images/wikipedia/Original_Utah_Teapot-crop.png" alt="Featured image of post A C&#43;&#43; Software Rasterizer" /&gt;&lt;p&gt;I made a software raytracer and rasterizer.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://github.com/rocksolidwebdesign/cxxray&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://github.com/rocksolidwebdesign/cxxray&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cover Photo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The original &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Utah_teapot&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Utah Teapot&lt;/a&gt; used as a
+reference by &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Martin_Newell_%28computer_scientist%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Martin Newell&lt;/a&gt;,
+a computer scientist and pioneer of 3D graphics.&lt;/p&gt;
+&lt;p&gt;Credit: &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/File:Original_Utah_Teapot.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Marshall Astor&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>A Simple Compiler</title>
+        <link>http://www.rocksolidwebdesign.com/p/eparc/</link>
+        <pubDate>Sat, 05 Nov 2022 19:00:00 +0000</pubDate>
+        
+        <guid>http://www.rocksolidwebdesign.com/p/eparc/</guid>
+        <description>&lt;img src="http://www.rocksolidwebdesign.com/images/unsplash/ravit-sages-gXyptwjk9aw-unsplash-crop.png" alt="Featured image of post A Simple Compiler" /&gt;&lt;p&gt;A simple compiler written in C&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://github.com/rocksolidwebdesign/eparc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://github.com/rocksolidwebdesign/eparc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cover Photo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Dragon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dragon&lt;/a&gt;
+is a common metaphorical symbol in the topic of compilers.&lt;/p&gt;
+&lt;p&gt;Credit: &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@rsravit?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ravit Sages&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

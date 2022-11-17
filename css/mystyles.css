@@ -1,0 +1,23 @@
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6
+{
+    border-inline-start: 0;
+    color: #89b;
+}
+
+.article-page
+.main-article
+.article-footer
+section.article-copyright
+{
+  text-transform: none;
+}
+
+.article-page .main-article .article-footer .article-copyright a.link
+{
+    padding-left: 7px;
+}
